@@ -30,7 +30,7 @@ from pathlib import Path
 # ==========================================
 
 # INSERT YOUR API KEY
-DUNE_API_KEY = "RmlqXbXQFgxmC63oUdz9VaPa68Ri9fYs" 
+DUNE_API_KEY = "YOUR_DUNE_API_KEY" 
 
 DUNE_QUERY_ID = 6454950# "NFT Volume by Chain (Weekly)"
 
