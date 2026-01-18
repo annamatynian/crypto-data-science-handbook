@@ -1,0 +1,7 @@
+pandas
+cloudscraper
+beautifulsoup4
+yfinance
+matplotlib
+mplcyberpunk
+lxml
